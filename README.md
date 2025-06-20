@@ -1,2 +1,1 @@
-# project_attendance-system
-Academic project 
+# face_recognition_project
